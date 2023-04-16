@@ -1,0 +1,25 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx5551dcd82bdff01b",
+# 公众号appSecret
+"app_secret": "b1ddffc102efe0c055a4f626a6304ff3",
+# 模板消息id
+"template_id": "A-4SJcgnYG4ZUJSqsAeAy_ttIek-f6v1daXkQCDFq3c",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["weixin1","weixin2"]
+"user": ["oOWya6Dgfbqjw1yv9RyS__iGuPDY","oOWya6Fk-LVBZASOyEnCPxbHBqFg","oOWya6JnKFekgxQk1kO3_Aoil2GM"],
+ 
+# 信息配置
+# 和风天气apikey
+"weather_key": "7b3cebecc7284c75bfb26c566a09400f",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
+"region": "花溪",
+# 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
+"birthday1": {"name": "猪猪宝贝", "birthday": "2000-09-19"},
+# 在一起的日子，格式同上，暂不不支持农历
+"love_date": "2021-07-27",
+# 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+"note_ch": "猪猪又要开始新的一天啦，要好好吃早餐，好好照顾自己哟。",
+# 金句英文
+"note_en": ""
+}
